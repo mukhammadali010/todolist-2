@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+.time {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h3{
+    font-size: 16px;
+    font-weight: 200;
+    color: gray;
+}
+span{
+    font-weight: bold;
+    color: white;
+}
