@@ -66,3 +66,8 @@ ul li button{
 .color{
     background-color: rgb(235, 183, 72);
 }
+
+/* Apply text-decoration: line-through to completed tasks */
+.completed span {
+    text-decoration: line-through;
+}

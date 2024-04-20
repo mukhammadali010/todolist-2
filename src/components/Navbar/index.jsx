@@ -32,10 +32,6 @@ class Navbar extends Component {
             <span>Date: </span>
             {this.state.day} .{this.state.month} .{this.state.year} .{weekDay}
           </h3>
-          <h3>
-            <span>Time: </span>
-            {this.state.hour} : {this.state.min} : {this.state.sec}
-          </h3>
         </div>
       </div>
     );
